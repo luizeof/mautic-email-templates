@@ -3,6 +3,11 @@ logs
 *.log
 npm-debug.log*
 
+coffee/
+mautic-bootstrap/
+Mauve/
+nature/
+
 # Runtime data
 pids
 *.pid
